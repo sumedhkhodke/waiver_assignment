@@ -9,4 +9,6 @@ This repository has been created by Sumedh Khodke as part of a submission for wa
 
  To run the program and see the output, use the following command - 
  > python assignment_submission.py
+
+ Or open the assignment_submission.ipynb, to check for saved outputs
  

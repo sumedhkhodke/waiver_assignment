@@ -1,7 +1,12 @@
 import sqlite3
 from utils import pre_process
 import os, sys
-import tabulate
+try:
+    import tabulate
+except Exception as e:
+    print(str(e))
+    print("PLEASE CHECK THE README.md FOR STEPS and req.txt FOR DEPENDENCIES AND INSTALL THEM")
+    sys.exit()
 
 def create_connection(db_file, delete_db=False):
     '''
