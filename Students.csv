@@ -1,0 +1,101 @@
+StudentID	Name	Degree	Exams	Scores
+1	Rodriguez, Pamela	graduate	exam7 (2017), exam9 (2018), exam3 (2018), exam7 (2017), exam5 (2020), exam10 (2019), exam1 (2016)	61, 38, 85, 70, 44, 43, 68
+2	Jackson, Kristie	undergraduate	exam2 (2017), exam2 (2017), exam8 (2018), exam6 (2017), exam3 (2018), exam8 (2018), exam5 (2020), exam4 (2019), exam9 (2018)	66, 69, 85, 62, 92, 72, 44, 50, 23
+3	Curtis, George	graduate	exam7 (2017), exam6 (2017), exam2 (2017), exam2 (2017)	68, 73, 62, 72
+4	Casey, Christie	undergraduate	exam10 (2019), exam4 (2019), exam4 (2019), exam1 (2016)	41, 52, 52, 70
+5	Yoder, Emily	undergraduate	exam4 (2019), exam4 (2019), exam4 (2019)	52, 45, 61
+6	Oliver, Andrew	undergraduate	exam10 (2019), exam4 (2019), exam2 (2017), exam4 (2019), exam9 (2018)	39, 55, 67, 50, 37
+7	Oliver, Kevin	undergraduate	exam8 (2018), exam4 (2019), exam9 (2018), exam6 (2017), exam1 (2016), exam4 (2019), exam6 (2017), exam5 (2020), exam7 (2017), exam4 (2019)	72, 49, 59, 52, 75, 49, 56, 47, 66, 52
+8	Brown, Jennifer	graduate	exam7 (2017), exam2 (2017), exam9 (2018), exam1 (2016), exam8 (2018), exam9 (2018), exam5 (2020), exam3 (2018)	70, 58, 36, 81, 84, 42, 36, 89
+9	Murillo, Anthony	undergraduate	exam3 (2018), exam10 (2019), exam2 (2017), exam6 (2017), exam8 (2018), exam7 (2017)	95, 49, 59, 64, 88, 64
+10	Yang, Brad	undergraduate	exam3 (2018), exam4 (2019), exam8 (2018), exam4 (2019), exam4 (2019), exam10 (2019), exam6 (2017), exam3 (2018), exam1 (2016)	87, 64, 85, 59, 45, 41, 62, 77, 84
+11	Simmons, Christopher	undergraduate	exam9 (2018), exam4 (2019), exam10 (2019), exam5 (2020), exam2 (2017), exam10 (2019), exam7 (2017)	36, 58, 40, 43, 66, 43, 72
+12	Griffin, Craig	undergraduate	exam10 (2019), exam10 (2019), exam9 (2018), exam10 (2019), exam1 (2016), exam2 (2017), exam4 (2019)	52, 48, 44, 39, 76, 64, 62
+13	Wheeler, Kathy	graduate	exam8 (2018), exam10 (2019), exam5 (2020), exam10 (2019), exam3 (2018), exam1 (2016), exam5 (2020), exam8 (2018), exam3 (2018), exam7 (2017)	71, 48, 52, 46, 84, 72, 45, 77, 81, 61
+14	Rojas, Joseph	undergraduate	exam6 (2017)	65
+15	Trujillo, Paige	graduate	exam1 (2016), exam4 (2019), exam9 (2018), exam8 (2018), exam7 (2017), exam6 (2017)	74, 62, 46, 80, 67, 69
+16	Walker, Carly	undergraduate	exam4 (2019), exam4 (2019), exam8 (2018), exam3 (2018), exam8 (2018), exam2 (2017), exam2 (2017)	49, 53, 80, 81, 89, 65, 68
+17	Burke, Robert	graduate	exam1 (2016), exam4 (2019)	69, 53
+18	Smith, Paul	undergraduate	exam8 (2018)	79
+19	Cherry, Michael	undergraduate	exam4 (2019), exam1 (2016), exam5 (2020), exam6 (2017), exam8 (2018), exam2 (2017)	60, 86, 44, 70, 74, 59
+20	Rodriguez, Ana	graduate	exam6 (2017), exam7 (2017)	65, 66
+21	Ellis, Tammy	graduate	exam1 (2016), exam8 (2018), exam8 (2018), exam8 (2018), exam10 (2019), exam5 (2020), exam10 (2019), exam7 (2017), exam6 (2017), exam1 (2016)	73, 86, 77, 94, 40, 39, 44, 74, 56, 72
+22	Arellano, Thomas	undergraduate	exam8 (2018), exam2 (2017), exam10 (2019), exam10 (2019), exam8 (2018), exam2 (2017), exam3 (2018), exam9 (2018), exam6 (2017), exam9 (2018)	68, 53, 44, 43, 93, 71, 91, 50, 63, 39
+23	Hunter, Bianca	graduate	exam4 (2019), exam4 (2019), exam2 (2017), exam8 (2018), exam4 (2019), exam9 (2018), exam10 (2019), exam10 (2019), exam3 (2018), exam9 (2018)	55, 57, 59, 82, 39, 33, 46, 39, 87, 37
+24	Bates, Michael	graduate	exam10 (2019), exam10 (2019), exam10 (2019), exam8 (2018), exam5 (2020), exam9 (2018)	42, 41, 49, 79, 43, 47
+25	Valdez, Stephanie	graduate	exam7 (2017), exam10 (2019)	70, 40
+26	Powell, Thomas	undergraduate	exam7 (2017), exam8 (2018), exam4 (2019), exam5 (2020), exam4 (2019), exam6 (2017), exam10 (2019), exam5 (2020)	75, 76, 51, 50, 58, 79, 49, 38
+27	Payne, Michael	graduate	exam7 (2017)	70
+28	Ferrell, Lori	undergraduate	exam3 (2018), exam2 (2017)	79, 65
+29	Mccormick, Patrick	graduate	exam4 (2019), exam7 (2017), exam2 (2017), exam1 (2016), exam3 (2018), exam6 (2017)	65, 73, 74, 65, 87, 58
+30	Bowman, Brandon	undergraduate	exam5 (2020), exam3 (2018), exam4 (2019), exam2 (2017), exam4 (2019), exam7 (2017), exam1 (2016), exam5 (2020), exam1 (2016)	42, 97, 56, 63, 56, 63, 75, 39, 74
+31	Rose, Theodore	graduate	exam9 (2018), exam4 (2019), exam6 (2017), exam10 (2019), exam3 (2018), exam3 (2018), exam7 (2017)	43, 44, 52, 42, 69, 75, 70
+32	Carson, Nancy	graduate	exam9 (2018), exam3 (2018), exam1 (2016), exam3 (2018), exam2 (2017), exam5 (2020), exam10 (2019)	48, 96, 75, 80, 60, 53, 36
+33	Wright, Erik	graduate	exam6 (2017), exam5 (2020), exam6 (2017), exam9 (2018), exam6 (2017), exam3 (2018)	52, 41, 53, 36, 64, 87
+34	Howard, Amber	undergraduate	exam1 (2016), exam5 (2020), exam3 (2018), exam2 (2017), exam9 (2018), exam3 (2018), exam8 (2018), exam9 (2018)	76, 47, 86, 66, 41, 84, 69, 46
+35	Palmer, Billy	undergraduate	exam2 (2017), exam7 (2017), exam1 (2016), exam2 (2017), exam1 (2016), exam1 (2016), exam8 (2018), exam8 (2018)	64, 72, 81, 81, 66, 71, 77, 83
+36	Erickson, Samantha	undergraduate	exam6 (2017), exam2 (2017), exam10 (2019), exam9 (2018)	61, 53, 48, 23
+37	Potter, Jermaine	graduate	exam8 (2018), exam6 (2017), exam2 (2017), exam10 (2019), exam1 (2016), exam8 (2018), exam5 (2020), exam6 (2017)	70, 57, 62, 46, 79, 89, 45, 60
+38	Cooper, Nicole	undergraduate	exam8 (2018), exam8 (2018), exam4 (2019), exam7 (2017), exam6 (2017), exam10 (2019)	89, 84, 44, 69, 76, 44
+39	Black, Jerry	undergraduate	exam9 (2018), exam10 (2019), exam6 (2017), exam4 (2019)	47, 45, 55, 60
+40	Thompson, Jason	graduate	exam1 (2016)	75
+41	Cortez, Steven	undergraduate	exam8 (2018), exam6 (2017)	65, 52
+42	Garza, Kenneth	undergraduate	exam9 (2018), exam4 (2019), exam10 (2019), exam9 (2018), exam8 (2018), exam3 (2018), exam6 (2017)	31, 52, 42, 41, 84, 89, 66
+43	Campbell, Marie	undergraduate	exam6 (2017), exam1 (2016), exam5 (2020), exam9 (2018), exam10 (2019), exam2 (2017), exam6 (2017)	66, 71, 39, 41, 46, 63, 63
+44	Wilkins, Tommy	graduate	exam2 (2017), exam7 (2017), exam4 (2019), exam5 (2020), exam8 (2018), exam6 (2017)	65, 75, 61, 43, 77, 61
+45	Ortiz, Leslie	graduate	exam6 (2017), exam2 (2017)	56, 62
+46	Guerrero, William	undergraduate	exam10 (2019)	52
+47	Black, James	graduate	exam3 (2018), exam2 (2017), exam3 (2018), exam2 (2017), exam10 (2019), exam9 (2018), exam5 (2020), exam3 (2018), exam10 (2019)	98, 61, 94, 56, 42, 32, 38, 79, 49
+48	Dixon, Cheryl	undergraduate	exam6 (2017), exam10 (2019), exam1 (2016), exam7 (2017), exam8 (2018), exam7 (2017), exam7 (2017)	78, 41, 82, 76, 76, 73, 64
+49	Schaefer, Eric	undergraduate	exam7 (2017), exam10 (2019), exam9 (2018)	75, 42, 19
+50	Mitchell, Ricardo	graduate	exam5 (2020)	50
+51	Martinez, Calvin	undergraduate	exam8 (2018), exam7 (2017)	82, 67
+52	Taylor, Beth	undergraduate	exam5 (2020), exam3 (2018), exam1 (2016), exam6 (2017), exam9 (2018), exam5 (2020), exam2 (2017), exam4 (2019), exam8 (2018)	42, 84, 77, 61, 43, 43, 70, 51, 83
+53	White, John	undergraduate	exam7 (2017), exam1 (2016), exam10 (2019), exam8 (2018), exam9 (2018), exam4 (2019), exam8 (2018), exam2 (2017), exam6 (2017)	70, 72, 48, 75, 46, 51, 92, 63, 53
+54	Nelson, Deanna	undergraduate	exam5 (2020), exam9 (2018), exam9 (2018)	46, 46, 39
+55	Lawrence, Matthew	undergraduate	exam8 (2018), exam1 (2016), exam7 (2017), exam2 (2017), exam7 (2017)	83, 81, 68, 59, 70
+56	Gardner, David	graduate	exam6 (2017)	60
+57	King, Matthew	undergraduate	exam6 (2017), exam7 (2017), exam3 (2018), exam1 (2016), exam5 (2020), exam3 (2018), exam6 (2017), exam1 (2016), exam1 (2016)	56, 62, 86, 83, 50, 94, 73, 76, 82
+58	Parker, Thomas	undergraduate	exam5 (2020), exam10 (2019)	55, 51
+59	Hall, Karen	undergraduate	exam7 (2017), exam5 (2020), exam9 (2018), exam4 (2019), exam2 (2017), exam7 (2017), exam10 (2019), exam3 (2018)	63, 48, 43, 52, 63, 64, 46, 89
+60	Cisneros, Barbara	undergraduate	exam5 (2020), exam8 (2018), exam3 (2018), exam1 (2016), exam3 (2018), exam6 (2017), exam1 (2016), exam5 (2020), exam5 (2020), exam10 (2019)	45, 71, 88, 76, 105, 61, 76, 37, 51, 42
+61	Murillo, Kimberly	undergraduate	exam9 (2018), exam9 (2018), exam10 (2019), exam4 (2019), exam1 (2016), exam8 (2018), exam7 (2017), exam8 (2018)	45, 30, 33, 50, 67, 86, 68, 79
+62	Bryant, John	undergraduate	exam5 (2020), exam8 (2018), exam2 (2017), exam2 (2017), exam6 (2017), exam10 (2019), exam6 (2017), exam7 (2017), exam1 (2016), exam6 (2017)	48, 77, 73, 55, 58, 48, 52, 71, 67, 69
+63	Young, Andrea	graduate	exam6 (2017), exam6 (2017), exam3 (2018), exam3 (2018), exam9 (2018), exam8 (2018), exam4 (2019)	61, 74, 93, 74, 44, 88, 62
+64	Lamb, Jessica	undergraduate	exam6 (2017), exam5 (2020), exam6 (2017), exam6 (2017), exam5 (2020), exam2 (2017)	53, 49, 76, 53, 49, 61
+65	Higgins, Lisa	undergraduate	exam7 (2017), exam4 (2019), exam6 (2017), exam10 (2019)	67, 50, 61, 47
+66	Parker, Michael	undergraduate	exam2 (2017), exam10 (2019), exam5 (2020), exam3 (2018)	77, 42, 50, 86
+67	Jenkins, Matthew	graduate	exam2 (2017), exam6 (2017), exam8 (2018), exam7 (2017)	61, 55, 82, 70
+68	Mayer, Jennifer	undergraduate	exam6 (2017), exam10 (2019), exam2 (2017), exam6 (2017), exam8 (2018), exam7 (2017), exam5 (2020), exam6 (2017), exam10 (2019), exam10 (2019)	60, 46, 62, 60, 84, 65, 47, 61, 46, 46
+69	Briggs, Mary	undergraduate	exam5 (2020), exam6 (2017), exam1 (2016), exam7 (2017), exam5 (2020), exam10 (2019), exam7 (2017), exam10 (2019), exam3 (2018)	32, 69, 71, 79, 50, 43, 67, 43, 88
+70	Schultz, Elizabeth	undergraduate	exam3 (2018), exam1 (2016), exam8 (2018), exam7 (2017), exam7 (2017), exam2 (2017), exam10 (2019), exam6 (2017), exam4 (2019), exam9 (2018)	72, 66, 90, 70, 70, 63, 48, 53, 50, 36
+71	Evans, Lisa	graduate	exam10 (2019), exam4 (2019), exam4 (2019), exam7 (2017), exam1 (2016), exam2 (2017), exam10 (2019), exam10 (2019), exam2 (2017), exam8 (2018)	53, 52, 61, 73, 83, 71, 52, 44, 69, 88
+72	Willis, Cindy	undergraduate	exam2 (2017), exam5 (2020), exam6 (2017), exam9 (2018), exam9 (2018), exam2 (2017), exam3 (2018), exam6 (2017)	73, 47, 62, 41, 28, 61, 94, 63
+73	Smith, Kelsey	undergraduate	exam8 (2018), exam8 (2018), exam3 (2018), exam5 (2020), exam3 (2018), exam1 (2016), exam3 (2018), exam9 (2018), exam3 (2018), exam1 (2016)	73, 74, 72, 44, 86, 78, 87, 44, 73, 74
+74	Evans, Heather	graduate	exam8 (2018), exam10 (2019), exam5 (2020), exam5 (2020), exam2 (2017)	73, 45, 52, 38, 68
+75	Martinez, Rebecca	graduate	exam6 (2017), exam10 (2019), exam3 (2018)	62, 49, 92
+76	Wall, Nicole	graduate	exam2 (2017), exam5 (2020), exam3 (2018), exam6 (2017), exam8 (2018), exam2 (2017)	56, 47, 87, 61, 79, 60
+77	Campbell, Michael	undergraduate	exam6 (2017), exam10 (2019), exam3 (2018), exam5 (2020)	66, 50, 96, 43
+78	Blackburn, Morgan	undergraduate	exam8 (2018), exam6 (2017), exam5 (2020), exam9 (2018), exam3 (2018), exam1 (2016), exam2 (2017), exam2 (2017), exam10 (2019), exam10 (2019)	75, 62, 52, 46, 87, 77, 61, 63, 40, 46
+79	Robbins, Melissa	undergraduate	exam1 (2016), exam6 (2017), exam8 (2018), exam10 (2019), exam9 (2018), exam4 (2019), exam2 (2017), exam4 (2019), exam6 (2017)	69, 57, 76, 57, 34, 53, 53, 60, 63
+80	Parsons, Allison	graduate	exam4 (2019), exam3 (2018), exam6 (2017), exam1 (2016), exam5 (2020), exam2 (2017), exam2 (2017)	51, 94, 64, 84, 43, 60, 72
+81	Wilson, Christopher	undergraduate	exam10 (2019), exam3 (2018), exam5 (2020)	37, 87, 53
+82	Wilson, Anthony	graduate	exam4 (2019), exam6 (2017), exam1 (2016)	62, 60, 75
+83	Johnson, Monique	graduate	exam1 (2016), exam10 (2019), exam9 (2018), exam1 (2016), exam9 (2018), exam7 (2017), exam1 (2016)	73, 46, 38, 76, 35, 70, 76
+84	Pratt, Debra	undergraduate	exam10 (2019), exam3 (2018), exam2 (2017), exam3 (2018), exam1 (2016)	38, 80, 74, 89, 82
+85	Fowler, William	undergraduate	exam4 (2019), exam9 (2018), exam9 (2018)	49, 42, 51
+86	Lowe, Matthew	graduate	exam5 (2020), exam4 (2019), exam5 (2020), exam8 (2018), exam10 (2019)	45, 59, 49, 90, 40
+87	Miller, Amanda	undergraduate	exam6 (2017), exam9 (2018), exam10 (2019), exam6 (2017), exam4 (2019), exam7 (2017), exam10 (2019), exam8 (2018)	69, 38, 42, 49, 56, 54, 48, 70
+88	Lawson, Bridget	undergraduate	exam2 (2017), exam10 (2019), exam9 (2018), exam2 (2017), exam6 (2017), exam6 (2017)	70, 51, 44, 66, 57, 69
+89	Wright, Samantha	undergraduate	exam6 (2017), exam5 (2020)	59, 48
+90	Lyons, Meghan	undergraduate	exam9 (2018), exam7 (2017), exam1 (2016), exam10 (2019), exam1 (2016), exam8 (2018), exam5 (2020), exam8 (2018), exam10 (2019), exam1 (2016)	29, 81, 73, 43, 70, 90, 55, 84, 42, 82
+91	Chapman, Curtis	graduate	exam8 (2018), exam1 (2016), exam9 (2018), exam9 (2018), exam1 (2016), exam8 (2018), exam4 (2019), exam9 (2018)	87, 76, 48, 36, 78, 74, 51, 36
+92	Perez, Calvin	undergraduate	exam8 (2018), exam1 (2016)	79, 71
+93	Davis, Helen	undergraduate	exam5 (2020)	47
+94	West, Erika	undergraduate	exam8 (2018), exam5 (2020), exam6 (2017), exam5 (2020), exam10 (2019), exam1 (2016), exam6 (2017), exam10 (2019), exam10 (2019), exam7 (2017)	78, 50, 56, 34, 39, 73, 72, 48, 47, 64
+95	Washington, John	graduate	exam8 (2018), exam3 (2018), exam3 (2018), exam8 (2018)	79, 84, 89, 80
+96	Dyer, Benjamin	undergraduate	exam10 (2019), exam4 (2019), exam6 (2017), exam6 (2017), exam2 (2017), exam1 (2016), exam8 (2018), exam2 (2017)	47, 53, 64, 57, 71, 79, 77, 56
+97	Delgado, Jason	undergraduate	exam1 (2016), exam8 (2018)	72, 83
+98	Cortez, Kenneth	undergraduate	exam3 (2018), exam5 (2020), exam6 (2017)	83, 55, 71
+99	Short, Elizabeth	undergraduate	exam3 (2018), exam9 (2018), exam3 (2018), exam8 (2018), exam3 (2018), exam4 (2019), exam10 (2019), exam4 (2019), exam7 (2017)	87, 34, 84, 75, 80, 60, 48, 55, 75
+100	Andrade, Robert	undergraduate	exam8 (2018)	82
